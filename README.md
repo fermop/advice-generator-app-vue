@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-3XvZexYeVi](https://www.frontendmentor.io/solutions/advice-generator-app-3XvZexYeVi)
-- Live Site Here: [https://fermop-advice-generator-app.vercel.app/](https://fermop-advice-generator-app.vercel.app/)
+- Live Site Here: [https://fermop-advice-generator-app-vue.vercel.app/](https://fermop-advice-generator-app-vue.vercel.app/)
 
 ## My process
 
